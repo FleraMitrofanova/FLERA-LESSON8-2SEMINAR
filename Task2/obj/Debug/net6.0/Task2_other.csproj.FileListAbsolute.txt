@@ -1,0 +1,5 @@
+C:\Users\flera\OneDrive\Рабочий стол\С# уроки\C#Lesson2\Task2_other\obj\Debug\net6.0\Task2_other.csproj.AssemblyReference.cache
+C:\Users\flera\OneDrive\Рабочий стол\С# уроки\C#Lesson2\Task2_other\obj\Debug\net6.0\Task2_other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flera\OneDrive\Рабочий стол\С# уроки\C#Lesson2\Task2_other\obj\Debug\net6.0\Task2_other.AssemblyInfoInputs.cache
+C:\Users\flera\OneDrive\Рабочий стол\С# уроки\C#Lesson2\Task2_other\obj\Debug\net6.0\Task2_other.AssemblyInfo.cs
+C:\Users\flera\OneDrive\Рабочий стол\С# уроки\C#Lesson2\Task2_other\obj\Debug\net6.0\Task2_other.csproj.CoreCompileInputs.cache
