@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\flera\\OneDrive\\Рабочий стол\\С# уроки\\C#Lesson2\\Task2_other\\Task2_other.csproj",
+      "projectUniqueName": "C:\\Users\\flera\\OneDrive\\Рабочий стол\\С# уроки\\C#Lesson2\\Task2\\Task2_other.csproj",
       "projectName": "Task2_other",
-      "projectPath": "C:\\Users\\flera\\OneDrive\\Рабочий стол\\С# уроки\\C#Lesson2\\Task2_other\\Task2_other.csproj",
+      "projectPath": "C:\\Users\\flera\\OneDrive\\Рабочий стол\\С# уроки\\C#Lesson2\\Task2\\Task2_other.csproj",
       "packagesPath": "C:\\Users\\flera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flera\\OneDrive\\Рабочий стол\\С# уроки\\C#Lesson2\\Task2_other\\obj\\",
+      "outputPath": "C:\\Users\\flera\\OneDrive\\Рабочий стол\\С# уроки\\C#Lesson2\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flera\\AppData\\Roaming\\NuGet\\NuGet.Config"

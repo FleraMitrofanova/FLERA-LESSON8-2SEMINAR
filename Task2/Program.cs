@@ -1,23 +1,36 @@
 ﻿int printThreeNumber(int number)
 {
-int first=number/100; //находи 1 число
-int two=number%100/10; // находим 2 число
-int three=number%10; // находим 3 число
+int res = 0;
+int count = 0;
+int tmp = number;
+//Сосчитаем разряды
+while(tmp!=0)
+{
+tmp=tmp/10;
+count++;
+}
+if(count<3)
+   Console.WriteLine("Третий разряд пуст");
 
-
-if (first !=0 )
-return three; 
-else
-return 0;
+if(count==3)
+   res=number%10;
+   
+if(count>3)
+   {
+      int size=count-3;
+      int n = 0;
+      while(n<size)
+         {
+            number=number/10;
+            n++;
+         }
+      res=number%10;
+   }
+return res;
 }
 
-int number,res;
-string? numberStr="";
+int number=0,result =0;
 Console.WriteLine("Введите трехзначное число");
 number=Convert.ToInt32(Console.ReadLine());
-int result=0; // задаем переменную, для вычисления длин
-
-for(int tmp=0; tmp%10; tmp++)
-{
-   Console.WriteLine("Разрядов"+tmp);
-}
+result = printThreeNumber(number);
+Console.WriteLine(" В третьем разряде содержится число: " + result);
